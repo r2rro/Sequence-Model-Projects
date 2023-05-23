@@ -1,5 +1,5 @@
 ## Emojifier - LSTM in Keras
-The emojifier code will use word vector representations to make your messages more expressive.
+The emojifier code uses word vector representations to make your messages more expressive.
 
 Rather than writing:
 >"Congratulations on the promotion! Let's get coffee and talk. Love you!"   
